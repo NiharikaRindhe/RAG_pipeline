@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+mattsollamatools==0.0.21
+ollama==0.1.8
+python_magic==0.4.27
+Requests==2.31.0
+nltk
+chromadb>=0.5.4
